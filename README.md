@@ -61,7 +61,7 @@
 <body>
     <header>
         <h1>NildinhaStore</h1>
-        <p>Localizado na Rua Vicente Ulisses, Centro, Exu-PE</p>
+        <p>Localizado na Rua Luis Alexandre N°130, Centro, Exu-PE</p>
     </header>
 
     <div id="google_translate_element" style="text-align:right; margin:10px;"></div>

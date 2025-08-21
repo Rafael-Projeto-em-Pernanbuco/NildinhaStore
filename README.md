@@ -97,7 +97,7 @@
 
     <section class="chat-buttons">
         <h2>Atendimento</h2>
-        <button onclick="window.open('https://wa.me/seunumerowhatsapp', '_blank')">WhatsApp</button>
+        <button onclick="window.open('https://wa.me/55+(87)9 9622-7063', '_blank')">WhatsApp</button>
         <button onclick="window.open('https://instagram.com/seuusuario', '_blank')">Instagram</button>
         <button onclick="window.open('https://facebook.com/seuusuario', '_blank')">Facebook</button>
         <button onclick="window.open('https://twitter.com/seuusuario', '_blank')">Twitter</button>

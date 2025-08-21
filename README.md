@@ -92,12 +92,12 @@
 
     <section id="mapa">
         <h2>Como Chegar</h2>
-        <iframe src="https://www.google.com/maps?q=Rua+Vicente+Ulisses,+Exu-PE&output=embed" width="100%" height="300" style="border:0;" allowfullscreen></iframe>
+        <iframe src="https://www.google.com/maps?q=Rua+Luis+Alexandre N°130 Centro,+Exu-PE&output=embed" width="100%" height="300" style="border:0;" allowfullscreen></iframe>
     </section>
 
     <section class="chat-buttons">
         <h2>Atendimento</h2>
-        <button onclick="window.open('https://wa.me/55+(87)9 9622-7063', '_blank')">WhatsApp</button>
+        <button onclick="window.open('https://wa.me/5587996227063', '_blank')">WhatsApp</button>
         <button onclick="window.open('https://instagram.com/seuusuario', '_blank')">Instagram</button>
         <button onclick="window.open('https://facebook.com/seuusuario', '_blank')">Facebook</button>
         <button onclick="window.open('https://twitter.com/seuusuario', '_blank')">Twitter</button>
